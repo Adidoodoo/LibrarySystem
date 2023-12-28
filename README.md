@@ -1,2 +1,2 @@
 # LibrarySystem
-A java project I have been working on for the past 2 weeks.
+A java project I made in a week.
